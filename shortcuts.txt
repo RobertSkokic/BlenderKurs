@@ -1,0 +1,22 @@
+middle mouse - um center bewegen
+middle mouse shift - bewegen
+g - grab object
+r - rotate 
+s - scale
+rechtsklick - aufhören mit allem
+man kann auch zb bei rotate während man r geklickt hat zahlen eingeben zb 90 für 90grad rotation
+auch während allem x y oder z um auf dieser axis nur zu bewegen scalen etc
+
+
+n - menü aufmachen
+im cam menü lock cam to viewport damit die kamera immer aus meiner view ist
+
+numpad 0 - camera
+andere numpads - verschiedene ansichten
+
+control + spacebar - im shader editor fullscreen
+
+shift + d - duplicate
+
+
+
