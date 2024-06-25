@@ -11,12 +11,37 @@ auch während allem x y oder z um auf dieser axis nur zu bewegen scalen etc
 n - menü aufmachen
 im cam menü lock cam to viewport damit die kamera immer aus meiner view ist
 
+srg + middlemouse button und maus bewegen - accurate kamera bewegen
+
 numpad 0 - camera
 andere numpads - verschiedene ansichten
 
 control + spacebar - im shader editor fullscreen
 
 shift + d - duplicate
+_________
+shift + linksklick - mehrere sachen auswählen
+
+tab- switch to edit mode
+
+im edit mode, 
+e - extrude, sachen rausziehen
+control + r = loopcut - neue edge reinmachen
+wenn neues objekt adden wirds zum edidten objekt dazugetan außer beim adden p und by loose parts
+
+alt + g, remove any movements
+
+_____
+
+sachen auswählen + m - neue collection
+
+numpad period key - frame object
+
+i - inset
+
+
+
+
 
 
 
