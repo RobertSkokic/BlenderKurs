@@ -1,0 +1,2 @@
+m mouse - drehen
+shift + m mouse - bewegen
