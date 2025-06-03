@@ -1,2 +1,44 @@
 m mouse - drehen
 shift + m mouse - bewegen
+
+NUMPAD oder NUMPAD+strg für andersrum
+
+NUM 5 perspektive ändern von ortographic to perspektive
+
+shift+right click um 3d cursor zu ändern
+
+shift + a -> add menu
+
+t -> toolbar
+
+g grab
+g+x um x axis zu binden
+oder middlmouse mouse button während bewegen
+
+r rotate
+s scale
+
+
+
+n- transform menu
+
+F12 render
+
+
+add - texture - env texure
+
+
+EDIT MODE
+
+e EXTRUDE
+
+strg r - loopcut
+
+wenn etwas in edit mode adden -> wird zu dem objekt geaddet
+
+p to seperate
+
+nach loop cut unten links options -> even
+
+objekte auswählen -> m -> collections
+

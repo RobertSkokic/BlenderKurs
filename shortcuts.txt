@@ -40,8 +40,102 @@ numpad period key - frame object
 i - inset
 
 
+SCULPT
+oben rechts dyntopo added vertices
+strg switched die brush zb von inne nach außen
+
+
+modifiers 
+generate modifier
+decimate
+
+proportional edit mode - oben
+
+snap zb auf faces und center
+
+oben rechts option only origins dann kann man origins schieben
+
+wenn edit mode a um alles zu markieren
+
+in edit mode werden origins nicht bewegt
+
+wenn mehrere objekte und du willst alle verschieden sclane neben snap individual origins
+
+linked duplicates -> ALT + D
+wenn man objekte verlinken will alle anklicken, letztes ist der von dem kopiert wird und -> strg + L
+-> link object data
+
+seperaten -> object -> relations -> make single user
+
+man kann workspaces adden und modifien
+
+raytracing anmachen für shadows mit eevee
+
+COLORING
+um verschieden sachen zu coloren, slot hinzufügen, faces auswählen in edit mode und in slots assignen
 
 
 
+LOOPCUT
+mit dem mausrad kann man mehr loops machen
+
+ALT + LEFT CLICK um mehrere faces auszuwählen
+
+ctrl + numpad + -> grow selection
+
+bloom anmachen -> compositing -> filter -> glare
 
 
+KAMERA AUF VIEWPORT EINSTELLEN
+strg+altNUMPAD 0
+
+
+shift + rightclick -> 3d cursor ändern
+
+shift + z beim scalen damits NICHT in die z auch scaled
+
+ctrl + b -> bevel
+
+g + g -> edgeslide
+
+m -> merge by distance
+
+oder oben rechts auto merge vertices
+
+inset + i -> indivual inset
+alt + e -> extrude faces along normals 
+
+
+2 vertices anklicken -> j to join damit nicht nur dreieck
+
+
+add modifier -> generate -> mirror
+
+clipping anmachen
+
+strg + a -> apply scale um scale auf  1 zurückzusetzen
+
+edge slide um vertices mit automerge zusammenzuführen
+
+h to hide objects
+
+mesh transform randomize
+
+wenn man mehrere anklickt beim shading ctrl l und link material
+
+mirror -> taking local axis instead of global axis
+
+dissolve edge
+
+ctrl+j +> join objects
+
+ctrl a apply rotatiuon
+
+wenn 2 objekte gefused
++> l um nur die einzelnen objekte auszuwählen
+
+alt+h um alles wieder anuzeigen
+
+strg halten um snapping anzumachen
+
+	
